@@ -1,5 +1,11 @@
 Demo at https://stackblitz.com/edit/react-frbq56
 
+### Install
+```bash
+npm install not-redux
+```
+
+### HowTo
 ```js
 import { createStore, connect } from 'not-redux'
 
