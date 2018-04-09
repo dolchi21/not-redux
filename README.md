@@ -1,4 +1,4 @@
-Demo at https://stackblitz.com/edit/react-frbq56
+Demo at https://stackblitz.com/edit/not-redux
 
 ### Install
 ```bash
